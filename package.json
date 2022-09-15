@@ -6,6 +6,11 @@
   "browser": {
     "./dist/node.js": "./dist/browser.js"
   },
+  "files": [
+      "/dist/node.js",
+      "/dist/index.d.ts",
+      "/dist/browser.js"
+  ],
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "npm run test:node && npm run test:browser",
