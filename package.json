@@ -1,6 +1,6 @@
 {
-  "name": "bigint-buffer",
-  "version": "1.1.5",
+  "name": "@exodus/bigint-buffer",
+  "version": "1.1.5-exodus.0",
   "description": "bigint to buffer conversion with native support",
   "main": "dist/node.js",
   "browser": {
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/no2chem/bigint-buffer.git"
+    "url": "https://github.com/exodusMovement/bigint-buffer.git"
   },
   "bugs": {
-    "url": "https://github.com/no2chem/bigint-buffer/issues"
+    "url": "https://github.com/exodusMovement/bigint-buffer/issues"
   },
   "keywords": [
     "bigint",
